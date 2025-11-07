@@ -48,6 +48,9 @@ Below is a short explanation of each parameter:
 | **target** | 1 = Heart Disease Present, 0 = No Disease |
 
 ---
+### Directly access through the Streamlit link
+https://heart-disease-prediction-by-raushanjais.streamlit.app/
+
 
 ### 💻 How to Run the Project Locally
 
